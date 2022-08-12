@@ -3,7 +3,7 @@ Basic React Native Functional Component with Styled Components
 
 ## Settings
 <p align="center">
-  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/vscode.png" width="500">
+  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/vscode.png" width="400">
 </p>
 
 ## Code 
@@ -44,6 +44,6 @@ Basic React Native Functional Component with Styled Components
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/app.gif" width="300">
+  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/app.gif" width="400">
 </p>
 
