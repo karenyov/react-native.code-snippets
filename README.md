@@ -18,7 +18,7 @@ Basic React Native Functional Component with Styled Components
 			"  Container",
 			"} from './styles';",
 			"",
-			"export function ${TM_DIRECTORY/^.+\\/(.*)$/$1/}() {",
+			"export function ${TM_DIRECTORY/^.+\\\\(.*)$/$1/}(){",
 			"  return (",
 			"    <Container>",
 			"",
@@ -42,4 +42,8 @@ Basic React Native Functional Component with Styled Components
 }
 ```
 
+# Screenshots
+<p align="center">
+  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/app.gif" width="300">
+</p>
 
