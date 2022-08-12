@@ -3,7 +3,7 @@ Basic React Native Functional Component with Styled Components
 
 ## Settings
 <p align="center">
-  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/vscode.png" width="300">
+  <img src="https://github.com/karenyov/react-native.code-snippets/blob/main/vscode.png" width="500">
 </p>
 
 ## Code 
